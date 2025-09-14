@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  <a href="mailto:poojag3@umbc.edu">
+  <a href="mailto:poojaguttal.md@gmail.com">
     <img src="https://img.shields.io/badge/Email-poojag3%40umbc.edu-red?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/pooja-guttal-3306381b4/">
