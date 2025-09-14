@@ -7,7 +7,7 @@
 
 <p align="center">
   <a href="mailto:poojaguttal.md@gmail.com">
-    <img src="https://img.shields.io/badge/Email-poojag3%40umbc.edu-red?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-poojaguttal.md%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/pooja-guttal-3306381b4/">
     <img src="https://img.shields.io/badge/LinkedIn-pooja--guttal-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
@@ -63,10 +63,6 @@
 ---
 
 ## 🔥 GitHub Stats
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=poojavguttal&layout=compact&theme=tokyonight" alt="Top languages" />
-</p>
 
 <p align="center">
   <img height="180" src="https://streak-stats.demolab.com?user=poojavguttal&theme=tokyonight" alt="GitHub Streak" />
