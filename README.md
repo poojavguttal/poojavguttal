@@ -59,16 +59,7 @@
 
 ---
 
-## 🔥 GitHub Stats
 
-<p align="center">
-  <img height="180" src="https://streak-stats.demolab.com?user=poojavguttal&theme=tokyonight" alt="GitHub Streak" />
-</p>
-
-<!-- Optional trophies
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=poojavguttal&theme=onedark&row=1&column=6" alt="trophies" />
-</p>
 -->
 
 ---
