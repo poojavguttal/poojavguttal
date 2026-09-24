@@ -1,8 +1,9 @@
-<!-- Profile README for Pooja Guttal -->
-<h1 align="center">Hey there, I'm Pooja Guttal 👋</h1>
+<p align="center">
+  Software Engineer • AI Engineer • MSCS @ UMBC
+</p>
 
 <p align="center">
-  MSCS @ <b>UMBC</b> • Full-Stack • Data & ML • Dashboards
+  Building software products with AI, LLMs, and full-stack systems.
 </p>
 
 <p align="center">
@@ -16,10 +17,14 @@
 
 ---
 
-## 💫 About Me
-- 🎓 Graduate student in **Computer Science** at **UMBC**
-- Interests:  **FullStack Dev**, **Artificial Intelligence**, **Machine Learning**, **Data Analytics**
----
+## About Me
+
+* MS in Computer Science from **UMBC**
+* Software Engineer with experience building **full-stack applications, backend systems, and AI-powered products**
+* Interested in **LLMs, RAG, agentic workflows, AI integrations, and developer tools**
+* Experience building AI systems across **legal technology, mental health, and career guidance**
+* I enjoy taking ideas from **problem → architecture → implementation → shipped product**
+
 
 ## 💻 Tech Stack
 
